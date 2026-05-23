@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+.leaflet-popup-content {
+    margin: 10px;
+    line-height: 1.2;
+}
+
+.leaflet-popup-content-value h3 {
+    margin: 0 0 5px 0;
+    color: #2c3e50;
+}
+
+.leaflet-popup-content-value p {
+    margin: 5px 0;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.tag {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 5px;
+}
+.venue-tag { background-color: #9b59b6; }
+.food-tag { background-color: #e67e22; }
