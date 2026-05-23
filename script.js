@@ -46,7 +46,7 @@ const locations = [
         type: "venue",
         layer: venueLayer,
         icon: venueIcon,
-        image: "https://wikimedia.org",
+        image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Old_Fort_Entrance_%28from_the_inside%29.jpg",
         details: "<b>Hours:</b> 09:00 - 17:00<br><b>Transit:</b> Rea Vaya BRT Station<br><b>Nearby Food:</b> 86 Public (Gourmet Pizza)"
     },
     {
