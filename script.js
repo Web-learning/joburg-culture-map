@@ -66,7 +66,7 @@ const locations = [
         type: "venue",
         layer: venueLayer,
         icon: venueIcon,
-        image: "https://wikimedia.org",
+        image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Chris_Seabrooke_music_hall.jpg",
         details: "<b>Hours:</b> Event Dependent<br><b>Transit:</b> Near Park Station Hub<br><b>Nearby Food:</b> The Playground Market"
     },
     {
