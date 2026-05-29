@@ -1,0 +1,61 @@
+
+    {
+        name: "Constitution Hill",
+        lat: -26.1887,
+        lng: 28.0436,
+        type: "venue",
+        layer: venueLayer,
+        icon: venueIcon,
+        image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Old_Fort_Entrance_%28from_the_inside%29.jpg",
+        details: "<b>Hours:</b> 09:00 - 17:00<br><b>Transit:</b> Rea Vaya BRT Station<br><b>Nearby Food:</b> 86 Public (Gourmet Pizza)"
+    },
+    {
+        name: "Wits Linder Auditorium",
+        lat: -26.178144,
+        lng: 28.042152,
+        type: "venue",
+        layer: venueLayer,
+        icon: venueIcon,
+        image: "https://wikimedia.org",
+        details: "<b>Hours:</b> Event Dependent<br><b>Transit:</b> Gautrain Bus J1 (St Andrews Rd)<br><b>Nearby Food:</b> Mike's Heritage House"
+    },
+    {
+        name: "Chris Seabrooke Music Hall",
+        lat: -26.19530,
+        lng: 28.03214,
+        type: "venue",
+        layer: venueLayer,
+        icon: venueIcon,
+        image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Chris_Seabrooke_music_hall.jpg",
+        details: "<b>Hours:</b> Event Dependent<br><b>Transit:</b> Near Park Station Hub<br><b>Nearby Food:</b> The Playground Market"
+    },
+    {
+        name: "Mike's Heritage House",
+        lat: -26.1785,
+        lng: 28.0435,
+        type: "dining",
+        layer: diningLayer,
+        icon: diningIcon,
+        image: "https://wikimedia.org",
+        details: "<b>Vibe:</b> Upscale steakhouse in a heritage building.<br><b>Ideal for:</b> Pre-concert dining for Linder Auditorium."
+    },
+    {
+        name: "86 Public Braamfontein",
+        lat: -26.1912,
+        lng: 28.0390,
+        type: "dining",
+        layer: diningLayer,
+        icon: diningIcon,
+        image: "https://wikimedia.org",
+        details: "<b>Vibe:</b> Trendy wood-fired pizza and craft beers.<br><b>Ideal for:</b> Quick bites near Constitution Hill."
+    },
+    {
+        name: "The Playground",
+        lat: -26.1945,
+        lng: 28.0361,
+        type: "dining",
+        layer: diningLayer,
+        icon: diningIcon,
+        image: "https://wikimedia.org",
+        details: "<b>Vibe:</b> Vibrant weekend artisan food market.<br><b>Ideal for:</b> Weekend matinee event snacks."
+    }
