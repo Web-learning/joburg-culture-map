@@ -1,4 +1,7 @@
-
+{  "meta": {
+    "venueTitle": "May Concert Venues",
+    "companyName": "Weblearning"
+  },
     {
         name: "Constitution Hill",
         lat: -26.1887,
@@ -59,3 +62,4 @@
         image: "https://wikimedia.org",
         details: "<b>Vibe:</b> Vibrant weekend artisan food market.<br><b>Ideal for:</b> Weekend matinee event snacks."
     }
+}
